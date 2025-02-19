@@ -37,3 +37,13 @@ Temas: Virtual Private Cloud (VPC), cómo configurar subredes, routing, y usar s
 Temas: Configuraciones de firewalls en redes, incluyendo cómo establecer reglas de tráfico y cómo funcionan los firewalls de red, especialmente los de servicios como AWS.
 - [Conceptos Básicos de Network Firewall](Network_Firewall/Conceptos_Básicos_de_Network_Firewall.md)
 - [Configuración de AWS Network Firewall](Network_Firewall/Configuración_de_AWS_Network_Firewall.md)
+
+## Referencias 
+[CIS AWS Foundations Benchmark](https://docs.aws.amazon.com/securityhub/latest/userguide/cis-aws-foundations-benchmark.html)
+[AWS Foundational Security Best Practices](https://docs.aws.amazon.com/securityhub/latest/userguide/fsbp-standard.html)
+[NIST SP 800-53 Rev. 5 in Security Hub](https://docs.aws.amazon.com/securityhub/latest/userguide/nist-standard.html)
+[PCI DSS in Security Hub](https://docs.aws.amazon.com/securityhub/latest/userguide/pci-standard.html)
+[AWS Incident Detection and Response](https://docs.aws.amazon.com/IDR/latest/userguide/what-is-idr.html)
+[]()
+[]()
+[]()
