@@ -44,6 +44,4 @@ Temas: Configuraciones de firewalls en redes, incluyendo cómo establecer reglas
 [NIST SP 800-53 Rev. 5 in Security Hub](https://docs.aws.amazon.com/securityhub/latest/userguide/nist-standard.html)
 [PCI DSS in Security Hub](https://docs.aws.amazon.com/securityhub/latest/userguide/pci-standard.html)
 [AWS Incident Detection and Response](https://docs.aws.amazon.com/IDR/latest/userguide/what-is-idr.html)
-[]()
-[]()
-[]()
+[Amazon GuardDuty Best Practices](https://aws.github.io/aws-security-services-best-practices/guides/guardduty/)
