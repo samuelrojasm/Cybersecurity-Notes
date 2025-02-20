@@ -13,7 +13,10 @@
 - Integrar la ciberseguridad como parte de la resiliencia en la nube.
 - Presentar **Chaos Engineering** como una práctica avanzada para probar la resiliencia y la capacidad de recuperación de los sistemas en producción.
 
-## 📚 Contenido
+## Índice
+- [Chaos Engineering en AWS](aws_chaos_engineering.md)
+
+## 📚 Temas
 El repositorio incluye los siguientes temas (en constante actualización):
 
 ### ⚙️ Fundamentos de Disaster Recovery y resiliencia
