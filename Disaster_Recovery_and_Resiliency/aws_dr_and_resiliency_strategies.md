@@ -43,6 +43,7 @@ La resiliencia no se trata solo de recuperar servicios; también implica protege
 - [AWS Well-Architected](https://aws.amazon.com/es/architecture/well-architected/)
 - [Documentación oficial de AWS sobre Disaster Recovery](https://docs.aws.amazon.com/whitepapers/latest/disaster-recovery-workloads-on-aws/disaster-recovery-workloads-on-aws.html)
 - [AWS Solutions for Resilience](https://aws.amazon.com/es/solutions/resilience/)
+- [AWS Elastic Disaster Recovery](https://aws.amazon.com/disaster-recovery/)
 - [AWS Resiliency Hub](https://aws.amazon.com/es/resilience-hub/)
 
 ## 🚧 Próximos Pasos
