@@ -1,4 +1,4 @@
-# MITRE ATT&CK Framework - Notas y Proyectos
+# MITRE ATT&CK Framework - Notas
 
 Notas, recursos y proyectos enfocados en el framework MITRE ATT&CK (Adversarial Tactics, Techniques and Common Knowledge) para profesionales de ciberseguridad, investigadores y cualquier persona interesada en inteligencia de amenazas y tácticas de ataque.
 
