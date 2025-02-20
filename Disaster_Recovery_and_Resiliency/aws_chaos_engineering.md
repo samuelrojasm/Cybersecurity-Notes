@@ -51,5 +51,3 @@ Además de AWS Fault Injection Simulator (FIS), existen otras herramientas popul
 - [Chaos Monkey en GitHub](https://github.com/Netflix/chaosmonkey)
 - [Chaos Toolkit](https://chaostoolkit.org/)
 - [LitmusChaos](https://litmuschaos.io/)
-- []()
-- []()
