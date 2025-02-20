@@ -73,6 +73,7 @@ Algunos ejemplos prácticos de cómo ajustar las estrategias a los valores de RT
 
 ## 🔗 Enlaces útiles
 - [AWS Well-Architected](https://aws.amazon.com/es/architecture/well-architected/)
+- [A Four-Step Approach to Verifying the Resiliency of Cloud-Native Applications](https://www.ibm.com/think/insights/a-four-step-approach-to-verifying-the-resiliency-of-cloud-native-applications)
 - [Guía de Ciberseguridad en AWS](https://aws.amazon.com/es/security/)
 - [Documentación oficial de AWS sobre Disaster Recovery](https://docs.aws.amazon.com/whitepapers/latest/disaster-recovery-workloads-on-aws/disaster-recovery-workloads-on-aws.html)
 - [AWS Solutions for Resilience](https://aws.amazon.com/es/solutions/resilience/)
