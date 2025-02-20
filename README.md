@@ -5,7 +5,7 @@ Bienvenido a mis apuntes de Ciberseguridad. Aquí encontrarás temas clave sobre
 ---
 
 ## Índice:
-- [IAM (Gestión de Identidades y Accesos)](#iam)
+- [AWS IAM (Gestión de Identidades y Accesos)](#iam)
 - [Redes](#redes)
 - [VPC (Virtual Private Cloud)](#vpc)
 - [Network Firewall](#network-firewall)
@@ -14,7 +14,7 @@ Bienvenido a mis apuntes de Ciberseguridad. Aquí encontrarás temas clave sobre
 
 ## IAM
 Temas: Gestión de identidades y accesos. Subtemas específicos de IAM, como roles, políticas, usuarios.
-- [Introducción a IAM](AWS_IAM/Introducción_a_IAM.md)
+- [Introducción a AWS IAM](AWS_IAM/Introducción_a_IAM.md)
 - [Gestión de Identidades y Accesos](IAM/Gestión_de_Identidades_y_Accesos.md)
 
 ---
