@@ -36,11 +36,11 @@ El repositorio incluye los siguientes temas (en constante actualización):
 
 ### 🚀 Estrategias de Resiliencia y Recuperación ante Desastres
 1. Backup and Restore
-- Realiza copias de seguridad y garantiza la disponibilidad rápida de los datos esenciales.
+    - Realiza copias de seguridad y garantiza la disponibilidad rápida de los datos esenciales.
 2. Pilot Light y Warm Standby
-- Mantén infraestructuras mínimas listas para escalar en caso de desastre.
+    - Mantén infraestructuras mínimas listas para escalar en caso de desastre.
 3. Multi-Region y Active/Active
-- Diseña arquitecturas distribuidas entre múltiples regiones para garantizar alta disponibilidad.
+    - Diseña arquitecturas distribuidas entre múltiples regiones para garantizar alta disponibilidad.
 
 ### ⏱️ RTO y RPO: Objetivos de Recuperación
 #### Recovery Time Objective (RTO)
