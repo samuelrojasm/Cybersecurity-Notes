@@ -15,6 +15,7 @@
 
 ## Índice
 - [Chaos Engineering en AWS](aws_chaos_engineering.md)
+- [AWS Disaster Recovery and Resiliency](aws_dr_and_resiliency_strategies.md)
 
 ## 📚 Temas
 El repositorio incluye los siguientes temas (en constante actualización):
