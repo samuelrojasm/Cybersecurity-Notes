@@ -44,6 +44,7 @@ Además de AWS Fault Injection Simulator (FIS), existen otras herramientas popul
     - Ajusta la arquitectura o configura alarmas adicionales basadas en los resultados obtenidos.
 
 ### 🔗 Enlaces útiles
+- [¿Qué es la ingeniería del caos?](https://www.ibm.com/mx-es/think/topics/chaos-engineering)
 - [AWS Fault Injection Simulator (FIS) - Documentación Oficial](https://aws.amazon.com/es/fis/)
 - [Introducción a Chaos Engineering en AWS](https://aws.amazon.com/es/solutions/resilience/chaos-engineering/)
 - [Chaos Engineering on AWS](https://aws.amazon.com/es/blogs/architecture/chaos-engineering-in-the-cloud/)
