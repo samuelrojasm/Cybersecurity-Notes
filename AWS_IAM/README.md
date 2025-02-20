@@ -34,17 +34,5 @@ El repositorio incluye los siguientes temas (en constante actualización):
 - Enlaces útiles a la documentación oficial de AWS.
 - Guías y tutoriales recomendados.
 
-
 ## 🔗 Enlaces útiles
-- []()
-- []()
 - [Actions, resources, and condition keys for AWS services](https://docs.aws.amazon.com/service-authorization/latest/reference/reference_policies_actions-resources-contextkeys.html)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
