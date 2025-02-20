@@ -14,7 +14,7 @@ Bienvenido a mis apuntes de Ciberseguridad. Aquí encontrarás temas clave sobre
 
 ## IAM
 Temas: Gestión de identidades y accesos. Subtemas específicos de IAM, como roles, políticas, usuarios.
-- [Introducción a IAM](IAM/Introducción_a_IAM.md)
+- [Introducción a IAM](AWS_IAM/Introducción_a_IAM.md)
 - [Gestión de Identidades y Accesos](IAM/Gestión_de_Identidades_y_Accesos.md)
 
 ---
