@@ -1,4 +1,4 @@
-# AWS IAM - Notas
+# AWS Identity and Access Management (IAM) - Notas
 
 ## Descripción
 - Este repositorio contiene notas detalladas y organizadas sobre AWS Identity and Access Management (IAM). 
